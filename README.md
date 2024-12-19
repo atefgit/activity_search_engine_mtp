@@ -111,4 +111,5 @@ TypeORM facilite les interactions avec la base de données tout en gardant de bo
 - Mise en place d'un CDN pour les images
 - Déploiement sur un service cloud (AWS/GCP/Azure)
 
+![image](https://github.com/user-attachments/assets/035f30b0-5396-4c48-a264-834c9feb139b)
 
